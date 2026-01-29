@@ -1,0 +1,410 @@
+{
+    "AAPL": {
+        "status": "FLAT"
+    },
+    "MSFT": {
+        "status": "FLAT"
+    },
+    "AMZN": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 239.47500610351562
+    },
+    "GOOGL": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 336.3900146484375
+    },
+    "GOOG": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 336.80999755859375
+    },
+    "META": {
+        "status": "FLAT"
+    },
+    "TSLA": {
+        "status": "FLAT"
+    },
+    "NVDA": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 190.9550018310547
+    },
+    "AVGO": {
+        "status": "FLAT"
+    },
+    "PEP": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 149.9499969482422
+    },
+    "COST": {
+        "status": "FLAT"
+    },
+    "ADBE": {
+        "status": "FLAT"
+    },
+    "CMCSA": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 29.2549991607666
+    },
+    "CSCO": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 78.69000244140625
+    },
+    "INTC": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 48.08000183105469
+    },
+    "AMD": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 248.7050018310547
+    },
+    "QCOM": {
+        "status": "FLAT"
+    },
+    "AMGN": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 346.6499938964844
+    },
+    "GILD": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 139.17999267578125
+    },
+    "ISRG": {
+        "status": "FLAT"
+    },
+    "TXN": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 218.3350067138672
+    },
+    "NFLX": {
+        "status": "FLAT"
+    },
+    "SBUX": {
+        "status": "FLAT"
+    },
+    "INTU": {
+        "status": "FLAT"
+    },
+    "MDLZ": {
+        "status": "FLAT"
+    },
+    "ADP": {
+        "status": "FLAT"
+    },
+    "CSX": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 37.790000915527344
+    },
+    "FISV": {
+        "status": "FLAT"
+    },
+    "KLAC": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 1671.280029296875
+    },
+    "LRCX": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 246.5399932861328
+    },
+    "MRNA": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 46.7599983215332
+    },
+    "REGN": {
+        "status": "FLAT"
+    },
+    "ROST": {
+        "status": "FLAT"
+    },
+    "VRTX": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 475.4700012207031
+    },
+    "ASML": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 1449.31005859375
+    },
+    "ADSK": {
+        "status": "FLAT"
+    },
+    "BIDU": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 156.8699951171875
+    },
+    "BKNG": {
+        "status": "FLAT"
+    },
+    "CDNS": {
+        "status": "FLAT"
+    },
+    "CHTR": {
+        "status": "FLAT"
+    },
+    "CTAS": {
+        "status": "FLAT"
+    },
+    "CTSH": {
+        "status": "FLAT"
+    },
+    "DLTR": {
+        "status": "FLAT"
+    },
+    "EA": {
+        "status": "FLAT"
+    },
+    "EXC": {
+        "status": "FLAT"
+    },
+    "FAST": {
+        "status": "FLAT"
+    },
+    "FOX": {
+        "status": "FLAT"
+    },
+    "FOXA": {
+        "status": "FLAT"
+    },
+    "HAS": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 90.2738037109375
+    },
+    "IDXX": {
+        "status": "FLAT"
+    },
+    "ILMN": {
+        "status": "FLAT"
+    },
+    "KDP": {
+        "status": "FLAT"
+    },
+    "KHC": {
+        "status": "FLAT"
+    },
+    "LULU": {
+        "status": "FLAT"
+    },
+    "MAR": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 319.3399963378906
+    },
+    "MCHP": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 78.62999725341797
+    },
+    "MELI": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 2222.3798828125
+    },
+    "MNST": {
+        "status": "FLAT"
+    },
+    "NTES": {
+        "status": "FLAT"
+    },
+    "NTAP": {
+        "status": "FLAT"
+    },
+    "OKTA": {
+        "status": "FLAT"
+    },
+    "ORLY": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 99.13999938964844
+    },
+    "PCAR": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 122.91000366210938
+    },
+    "PYPL": {
+        "status": "FLAT"
+    },
+    "SIRI": {
+        "status": "FLAT"
+    },
+    "SNPS": {
+        "status": "FLAT"
+    },
+    "SWKS": {
+        "status": "FLAT"
+    },
+    "TEAM": {
+        "status": "FLAT"
+    },
+    "TMUS": {
+        "status": "FLAT"
+    },
+    "TTD": {
+        "status": "FLAT"
+    },
+    "VOD": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 14.67549991607666
+    },
+    "WBD": {
+        "status": "FLAT"
+    },
+    "XEL": {
+        "status": "FLAT"
+    },
+    "ZM": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 92.05000305175781
+    },
+    "ZS": {
+        "status": "FLAT"
+    },
+    "PLTR": {
+        "status": "FLAT"
+    },
+    "MU": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 433.60040283203125
+    },
+    "CEG": {
+        "status": "FLAT"
+    },
+    "AEP": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 119.27989959716797
+    },
+    "FTNT": {
+        "status": "FLAT"
+    },
+    "NXPI": {
+        "status": "FLAT"
+    },
+    "AXON": {
+        "status": "FLAT"
+    },
+    "CCEP": {
+        "status": "FLAT"
+    },
+    "CPRT": {
+        "status": "FLAT"
+    },
+    "ROP": {
+        "status": "FLAT"
+    },
+    "PAYX": {
+        "status": "FLAT"
+    },
+    "ODFL": {
+        "status": "FLAT"
+    },
+    "GEHC": {
+        "status": "FLAT"
+    },
+    "TTWO": {
+        "status": "FLAT"
+    },
+    "CSGP": {
+        "status": "FLAT"
+    },
+    "DXCM": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 73.63999938964844
+    },
+    "VRSK": {
+        "status": "FLAT"
+    },
+    "ON": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 62.290000915527344
+    },
+    "GFS": {
+        "status": "FLAT"
+    },
+    "CDW": {
+        "status": "FLAT"
+    },
+    "BIIB": {
+        "status": "FLAT"
+    },
+    "BKR": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 57.029998779296875
+    },
+    "TRI": {
+        "status": "FLAT"
+    },
+    "ABNB": {
+        "status": "FLAT"
+    },
+    "HON": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 226.7899932861328
+    },
+    "PANW": {
+        "status": "FLAT"
+    },
+    "CRWD": {
+        "status": "FLAT"
+    },
+    "ARM": {
+        "status": "FLAT"
+    },
+    "DASH": {
+        "status": "FLAT"
+    },
+    "ADI": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 316.3500061035156
+    },
+    "PDD": {
+        "status": "FLAT"
+    },
+    "LIN": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 453.8999938964844
+    },
+    "APP": {
+        "status": "FLAT"
+    },
+    "SHOP": {
+        "status": "FLAT"
+    },
+    "DDOG": {
+        "status": "FLAT"
+    },
+    "WDAY": {
+        "status": "FLAT"
+    },
+    "FANG": {
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 164.80999755859375
+    }
+}
