@@ -190,7 +190,9 @@
         "status": "FLAT"
     },
     "ILMN": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 149.69000244140625
     },
     "KDP": {
         "status": "FLAT"
@@ -341,7 +343,9 @@
         "entry_price": 62.290000915527344
     },
     "GFS": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-01-29",
+        "entry_price": 44.459999084472656
     },
     "CDW": {
         "status": "FLAT"
