@@ -1,0 +1,47 @@
+name: Triple MA Ribbon Scanner
+
+on:
+  schedule:
+    # 4:30 PM EST is 21:30 UTC (Standard Time)
+    # This runs at 21:30 UTC every weekday
+    - cron: '30 21 * * 1-5'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to push changes to signals_state.json
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run Strategy Scanner
+      env:
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      run: python strategy.py
+
+    - name: Commit State Changes
+      run: |
+        git config --global user.name 'GitHub Actions Bot'
+        git config --global user.email 'actions@github.com'
+        # Check if signals_state.json has changed
+        if [[ -n $(git status -s signals_state.json) ]]; then
+          git add signals_state.json
+          git commit -m "Update signals state [skip ci]"
+          git push
+        else
+          echo "No state changes to commit."
+        fi
