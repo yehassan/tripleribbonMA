@@ -228,9 +228,9 @@
         "status": "FLAT"
     },
     "MAR": {
-        "status": "FLAT",
-        "entry_date": "2026-01-29",
-        "entry_price": 319.3399963378906,
+        "status": "LONG",
+        "entry_date": "2026-02-03",
+        "entry_price": 318.4200134277344,
         "exit_date": "2026-01-30",
         "exit_price": 315.29998779296875
     },
