@@ -6,9 +6,11 @@
         "status": "FLAT"
     },
     "AMZN": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-29",
-        "entry_price": 239.47500610351562
+        "entry_price": 239.47500610351562,
+        "exit_date": "2026-02-03",
+        "exit_price": 236.52999877929688
     },
     "GOOGL": {
         "status": "LONG",
@@ -29,9 +31,11 @@
         "status": "FLAT"
     },
     "NVDA": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-29",
-        "entry_price": 190.9550018310547
+        "entry_price": 190.9550018310547,
+        "exit_date": "2026-02-03",
+        "exit_price": 177.47000122070312
     },
     "AVGO": {
         "status": "FLAT"
@@ -42,7 +46,9 @@
         "entry_price": 149.9499969482422
     },
     "COST": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-02-03",
+        "entry_price": 977.469970703125
     },
     "ADBE": {
         "status": "FLAT"
@@ -152,9 +158,11 @@
         "status": "FLAT"
     },
     "BIDU": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-29",
-        "entry_price": 156.8699951171875
+        "entry_price": 156.8699951171875,
+        "exit_date": "2026-02-03",
+        "exit_price": 143.63999938964844
     },
     "BKNG": {
         "status": "FLAT"
@@ -186,9 +194,11 @@
         "entry_price": 43.36000061035156
     },
     "FOX": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-30",
-        "entry_price": 65.56999969482422
+        "entry_price": 65.56999969482422,
+        "exit_date": "2026-02-03",
+        "exit_price": 63.20000076293945
     },
     "FOXA": {
         "status": "FLAT"
@@ -230,9 +240,11 @@
         "entry_price": 78.62999725341797
     },
     "MELI": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-29",
-        "entry_price": 2222.3798828125
+        "entry_price": 2222.3798828125,
+        "exit_date": "2026-02-03",
+        "exit_price": 2082.840087890625
     },
     "MNST": {
         "status": "LONG",
@@ -291,9 +303,11 @@
         "status": "FLAT"
     },
     "ZM": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-29",
-        "entry_price": 92.05000305175781
+        "entry_price": 92.05000305175781,
+        "exit_date": "2026-02-03",
+        "exit_price": 88.125
     },
     "ZS": {
         "status": "FLAT"
@@ -338,7 +352,9 @@
         "status": "FLAT"
     },
     "ODFL": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-02-03",
+        "entry_price": 186.3000030517578
     },
     "GEHC": {
         "status": "FLAT"
@@ -365,9 +381,11 @@
         "exit_price": 59.88999938964844
     },
     "GFS": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-29",
-        "entry_price": 44.459999084472656
+        "entry_price": 44.459999084472656,
+        "exit_date": "2026-02-03",
+        "exit_price": 39.61000061035156
     },
     "CDW": {
         "status": "FLAT"
