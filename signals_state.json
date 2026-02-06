@@ -1,6 +1,8 @@
 {
     "AAPL": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-02-06",
+        "entry_price": 278.1199951171875
     },
     "MSFT": {
         "status": "FLAT"
@@ -13,9 +15,11 @@
         "exit_price": 236.52999877929688
     },
     "GOOGL": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-29",
-        "entry_price": 336.3900146484375
+        "entry_price": 336.3900146484375,
+        "exit_date": "2026-02-06",
+        "exit_price": 322.8599853515625
     },
     "GOOG": {
         "status": "FLAT",
@@ -25,9 +29,11 @@
         "exit_price": 331.3299865722656
     },
     "META": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-30",
-        "entry_price": 716.5
+        "entry_price": 716.5,
+        "exit_date": "2026-02-06",
+        "exit_price": 661.4600219726562
     },
     "TSLA": {
         "status": "FLAT"
@@ -133,9 +139,9 @@
         "exit_price": 1427.93994140625
     },
     "LRCX": {
-        "status": "FLAT",
-        "entry_date": "2026-01-29",
-        "entry_price": 246.5399932861328,
+        "status": "LONG",
+        "entry_date": "2026-02-06",
+        "entry_price": 231.00999450683594,
         "exit_date": "2026-02-04",
         "exit_price": 209.77999877929688
     },
@@ -157,9 +163,9 @@
         "entry_price": 188.64999389648438
     },
     "VRTX": {
-        "status": "FLAT",
-        "entry_date": "2026-01-29",
-        "entry_price": 475.4700012207031,
+        "status": "LONG",
+        "entry_date": "2026-02-06",
+        "entry_price": 477.9200134277344,
         "exit_date": "2026-02-05",
         "exit_price": 458.80999755859375
     },
@@ -235,7 +241,9 @@
         "exit_price": 144.80999755859375
     },
     "KDP": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-02-06",
+        "entry_price": 28.40999984741211
     },
     "KHC": {
         "status": "FLAT"
@@ -401,9 +409,9 @@
         "exit_price": 59.88999938964844
     },
     "GFS": {
-        "status": "FLAT",
-        "entry_date": "2026-01-29",
-        "entry_price": 44.459999084472656,
+        "status": "LONG",
+        "entry_date": "2026-02-06",
+        "entry_price": 42.90999984741211,
         "exit_date": "2026-02-03",
         "exit_price": 39.61000061035156
     },
@@ -452,9 +460,11 @@
         "status": "FLAT"
     },
     "LIN": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-29",
-        "entry_price": 453.8999938964844
+        "entry_price": 453.8999938964844,
+        "exit_date": "2026-02-06",
+        "exit_price": 448.239990234375
     },
     "APP": {
         "status": "FLAT"
