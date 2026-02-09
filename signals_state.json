@@ -29,9 +29,9 @@
         "exit_price": 331.3299865722656
     },
     "META": {
-        "status": "FLAT",
-        "entry_date": "2026-01-30",
-        "entry_price": 716.5,
+        "status": "LONG",
+        "entry_date": "2026-02-09",
+        "entry_price": 677.219970703125,
         "exit_date": "2026-02-06",
         "exit_price": 661.4600219726562
     },
@@ -259,9 +259,11 @@
         "exit_price": 315.29998779296875
     },
     "MCHP": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-29",
-        "entry_price": 78.62999725341797
+        "entry_price": 78.62999725341797,
+        "exit_date": "2026-02-09",
+        "exit_price": 74.41000366210938
     },
     "MELI": {
         "status": "FLAT",
@@ -355,7 +357,9 @@
         "entry_price": 119.27989959716797
     },
     "FTNT": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-02-09",
+        "entry_price": 85.93000030517578
     },
     "NXPI": {
         "status": "FLAT"
