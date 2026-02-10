@@ -72,9 +72,11 @@
         "entry_price": 78.69000244140625
     },
     "INTC": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-29",
-        "entry_price": 48.08000183105469
+        "entry_price": 48.08000183105469,
+        "exit_date": "2026-02-10",
+        "exit_price": 47.130001068115234
     },
     "AMD": {
         "status": "FLAT",
@@ -153,9 +155,11 @@
         "exit_price": 40.869998931884766
     },
     "REGN": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-04",
-        "entry_price": 775.0599975585938
+        "entry_price": 775.0599975585938,
+        "exit_date": "2026-02-10",
+        "exit_price": 754.9099731445312
     },
     "ROST": {
         "status": "LONG",
@@ -163,11 +167,11 @@
         "entry_price": 188.64999389648438
     },
     "VRTX": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-06",
         "entry_price": 477.9200134277344,
-        "exit_date": "2026-02-05",
-        "exit_price": 458.80999755859375
+        "exit_date": "2026-02-10",
+        "exit_price": 463.4800109863281
     },
     "ASML": {
         "status": "LONG",
@@ -191,7 +195,9 @@
         "status": "FLAT"
     },
     "CHTR": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-02-10",
+        "entry_price": 248.19000244140625
     },
     "CTAS": {
         "status": "LONG",
@@ -259,9 +265,9 @@
         "exit_price": 315.29998779296875
     },
     "MCHP": {
-        "status": "FLAT",
-        "entry_date": "2026-01-29",
-        "entry_price": 78.62999725341797,
+        "status": "LONG",
+        "entry_date": "2026-02-10",
+        "entry_price": 76.86000061035156,
         "exit_date": "2026-02-09",
         "exit_price": 74.41000366210938
     },
@@ -273,9 +279,11 @@
         "exit_price": 2082.840087890625
     },
     "MNST": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-30",
-        "entry_price": 80.76000213623047
+        "entry_price": 80.76000213623047,
+        "exit_date": "2026-02-10",
+        "exit_price": 80.16999816894531
     },
     "NTES": {
         "status": "FLAT"
@@ -344,9 +352,11 @@
         "status": "FLAT"
     },
     "MU": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-29",
-        "entry_price": 433.60040283203125
+        "entry_price": 433.60040283203125,
+        "exit_date": "2026-02-10",
+        "exit_price": 373.25
     },
     "CEG": {
         "status": "FLAT"
@@ -413,11 +423,11 @@
         "exit_price": 59.88999938964844
     },
     "GFS": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-06",
         "entry_price": 42.90999984741211,
-        "exit_date": "2026-02-03",
-        "exit_price": 39.61000061035156
+        "exit_date": "2026-02-10",
+        "exit_price": 41.900001525878906
     },
     "CDW": {
         "status": "FLAT"
@@ -464,9 +474,9 @@
         "status": "FLAT"
     },
     "LIN": {
-        "status": "FLAT",
-        "entry_date": "2026-01-29",
-        "entry_price": 453.8999938964844,
+        "status": "LONG",
+        "entry_date": "2026-02-10",
+        "entry_price": 460.510009765625,
         "exit_date": "2026-02-06",
         "exit_price": 448.239990234375
     },
