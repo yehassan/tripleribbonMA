@@ -1,8 +1,10 @@
 {
     "AAPL": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-06",
-        "entry_price": 278.1199951171875
+        "entry_price": 278.1199951171875,
+        "exit_date": "2026-02-12",
+        "exit_price": 261.7300109863281
     },
     "MSFT": {
         "status": "FLAT"
@@ -67,9 +69,11 @@
         "entry_price": 29.2549991607666
     },
     "CSCO": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-29",
-        "entry_price": 78.69000244140625
+        "entry_price": 78.69000244140625,
+        "exit_date": "2026-02-12",
+        "exit_price": 75.0
     },
     "INTC": {
         "status": "FLAT",
@@ -214,7 +218,9 @@
         "status": "FLAT"
     },
     "EXC": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-02-12",
+        "entry_price": 47.54999923706055
     },
     "FAST": {
         "status": "LONG",
@@ -279,9 +285,9 @@
         "exit_price": 2082.840087890625
     },
     "MNST": {
-        "status": "FLAT",
-        "entry_date": "2026-01-30",
-        "entry_price": 80.76000213623047,
+        "status": "LONG",
+        "entry_date": "2026-02-12",
+        "entry_price": 81.16999816894531,
         "exit_date": "2026-02-10",
         "exit_price": 80.16999816894531
     },
