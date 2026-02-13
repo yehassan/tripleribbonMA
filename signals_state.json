@@ -41,11 +41,11 @@
         "status": "FLAT"
     },
     "NVDA": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-11",
         "entry_price": 190.0500030517578,
-        "exit_date": "2026-02-03",
-        "exit_price": 177.47000122070312
+        "exit_date": "2026-02-13",
+        "exit_price": 182.80999755859375
     },
     "AVGO": {
         "status": "FLAT"
@@ -114,9 +114,11 @@
         "status": "FLAT"
     },
     "SBUX": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-04",
-        "entry_price": 96.97000122070312
+        "entry_price": 96.97000122070312,
+        "exit_date": "2026-02-13",
+        "exit_price": 93.79000091552734
     },
     "INTU": {
         "status": "FLAT"
@@ -152,9 +154,9 @@
         "exit_price": 209.77999877929688
     },
     "MRNA": {
-        "status": "FLAT",
-        "entry_date": "2026-01-29",
-        "entry_price": 46.7599983215332,
+        "status": "LONG",
+        "entry_date": "2026-02-13",
+        "entry_price": 42.22999954223633,
         "exit_date": "2026-02-05",
         "exit_price": 40.869998931884766
     },
@@ -171,9 +173,9 @@
         "entry_price": 188.64999389648438
     },
     "VRTX": {
-        "status": "FLAT",
-        "entry_date": "2026-02-06",
-        "entry_price": 477.9200134277344,
+        "status": "LONG",
+        "entry_date": "2026-02-13",
+        "entry_price": 491.4700012207031,
         "exit_date": "2026-02-10",
         "exit_price": 463.4800109863281
     },
@@ -204,9 +206,11 @@
         "entry_price": 248.19000244140625
     },
     "CTAS": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-04",
-        "entry_price": 192.61000061035156
+        "entry_price": 192.61000061035156,
+        "exit_date": "2026-02-13",
+        "exit_price": 193.44000244140625
     },
     "CTSH": {
         "status": "FLAT"
@@ -316,7 +320,9 @@
         "status": "FLAT"
     },
     "SIRI": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-02-13",
+        "entry_price": 21.290000915527344
     },
     "SNPS": {
         "status": "FLAT"
