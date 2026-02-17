@@ -206,9 +206,9 @@
         "entry_price": 248.19000244140625
     },
     "CTAS": {
-        "status": "FLAT",
-        "entry_date": "2026-02-04",
-        "entry_price": 192.61000061035156,
+        "status": "LONG",
+        "entry_date": "2026-02-17",
+        "entry_price": 194.9199981689453,
         "exit_date": "2026-02-13",
         "exit_price": 193.44000244140625
     },
@@ -216,7 +216,9 @@
         "status": "FLAT"
     },
     "DLTR": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-02-17",
+        "entry_price": 128.52000427246094
     },
     "EA": {
         "status": "FLAT"
@@ -345,7 +347,9 @@
         "entry_price": 14.67549991607666
     },
     "WBD": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-02-17",
+        "entry_price": 28.75
     },
     "XEL": {
         "status": "LONG",
@@ -353,11 +357,11 @@
         "entry_price": 77.91999816894531
     },
     "ZM": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-04",
         "entry_price": 90.83000183105469,
-        "exit_date": "2026-02-03",
-        "exit_price": 88.125
+        "exit_date": "2026-02-17",
+        "exit_price": 88.6500015258789
     },
     "ZS": {
         "status": "FLAT"
@@ -381,9 +385,11 @@
         "entry_price": 119.27989959716797
     },
     "FTNT": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-09",
-        "entry_price": 85.93000030517578
+        "entry_price": 85.93000030517578,
+        "exit_date": "2026-02-17",
+        "exit_price": 81.69000244140625
     },
     "NXPI": {
         "status": "LONG",
