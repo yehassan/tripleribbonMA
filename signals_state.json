@@ -41,9 +41,9 @@
         "status": "FLAT"
     },
     "NVDA": {
-        "status": "FLAT",
-        "entry_date": "2026-02-11",
-        "entry_price": 190.0500030517578,
+        "status": "LONG",
+        "entry_date": "2026-02-18",
+        "entry_price": 187.97999572753906,
         "exit_date": "2026-02-13",
         "exit_price": 182.80999755859375
     },
@@ -114,9 +114,9 @@
         "status": "FLAT"
     },
     "SBUX": {
-        "status": "FLAT",
-        "entry_date": "2026-02-04",
-        "entry_price": 96.97000122070312,
+        "status": "LONG",
+        "entry_date": "2026-02-18",
+        "entry_price": 95.76000213623047,
         "exit_date": "2026-02-13",
         "exit_price": 93.79000091552734
     },
@@ -336,7 +336,9 @@
         "status": "FLAT"
     },
     "TMUS": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-02-18",
+        "entry_price": 213.25
     },
     "TTD": {
         "status": "FLAT"
