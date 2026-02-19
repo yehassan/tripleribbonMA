@@ -124,9 +124,11 @@
         "status": "FLAT"
     },
     "MDLZ": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-30",
-        "entry_price": 58.470001220703125
+        "entry_price": 58.470001220703125,
+        "exit_date": "2026-02-19",
+        "exit_price": 58.63999938964844
     },
     "ADP": {
         "status": "FLAT"
@@ -394,9 +396,11 @@
         "exit_price": 81.69000244140625
     },
     "NXPI": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-11",
-        "entry_price": 249.75
+        "entry_price": 249.75,
+        "exit_date": "2026-02-19",
+        "exit_price": 232.11000061035156
     },
     "AXON": {
         "status": "FLAT"
@@ -421,7 +425,9 @@
         "entry_price": 186.3000030517578
     },
     "GEHC": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-02-19",
+        "entry_price": 83.01000213623047
     },
     "TTWO": {
         "status": "FLAT"
@@ -430,9 +436,9 @@
         "status": "FLAT"
     },
     "DXCM": {
-        "status": "FLAT",
-        "entry_date": "2026-01-29",
-        "entry_price": 73.63999938964844,
+        "status": "LONG",
+        "entry_date": "2026-02-19",
+        "entry_price": 72.2699966430664,
         "exit_date": "2026-02-04",
         "exit_price": 70.81999969482422
     },
