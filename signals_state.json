@@ -1,8 +1,8 @@
 {
     "AAPL": {
-        "status": "FLAT",
-        "entry_date": "2026-02-06",
-        "entry_price": 278.1199951171875,
+        "status": "LONG",
+        "entry_date": "2026-02-23",
+        "entry_price": 266.17999267578125,
         "exit_date": "2026-02-12",
         "exit_price": 261.7300109863281
     },
@@ -114,19 +114,19 @@
         "status": "FLAT"
     },
     "SBUX": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-18",
         "entry_price": 95.76000213623047,
-        "exit_date": "2026-02-13",
-        "exit_price": 93.79000091552734
+        "exit_date": "2026-02-23",
+        "exit_price": 94.77999877929688
     },
     "INTU": {
         "status": "FLAT"
     },
     "MDLZ": {
-        "status": "FLAT",
-        "entry_date": "2026-01-30",
-        "entry_price": 58.470001220703125,
+        "status": "LONG",
+        "entry_date": "2026-02-23",
+        "entry_price": 60.380001068115234,
         "exit_date": "2026-02-19",
         "exit_price": 58.63999938964844
     },
@@ -231,9 +231,11 @@
         "entry_price": 47.54999923706055
     },
     "FAST": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-30",
-        "entry_price": 43.36000061035156
+        "entry_price": 43.36000061035156,
+        "exit_date": "2026-02-23",
+        "exit_price": 45.04999923706055
     },
     "FOX": {
         "status": "FLAT",
@@ -279,11 +281,11 @@
         "exit_price": 315.29998779296875
     },
     "MCHP": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-10",
         "entry_price": 76.86000061035156,
-        "exit_date": "2026-02-09",
-        "exit_price": 74.41000366210938
+        "exit_date": "2026-02-23",
+        "exit_price": 76.5999984741211
     },
     "MELI": {
         "status": "FLAT",
