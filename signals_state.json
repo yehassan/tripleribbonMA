@@ -106,17 +106,19 @@
         "status": "FLAT"
     },
     "TXN": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-29",
-        "entry_price": 218.3350067138672
+        "entry_price": 218.3350067138672,
+        "exit_date": "2026-02-24",
+        "exit_price": 213.35000610351562
     },
     "NFLX": {
         "status": "FLAT"
     },
     "SBUX": {
-        "status": "FLAT",
-        "entry_date": "2026-02-18",
-        "entry_price": 95.76000213623047,
+        "status": "LONG",
+        "entry_date": "2026-02-24",
+        "entry_price": 96.51000213623047,
         "exit_date": "2026-02-23",
         "exit_price": 94.77999877929688
     },
@@ -163,11 +165,11 @@
         "exit_price": 40.869998931884766
     },
     "REGN": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-11",
         "entry_price": 778.969970703125,
-        "exit_date": "2026-02-10",
-        "exit_price": 754.9099731445312
+        "exit_date": "2026-02-24",
+        "exit_price": 772.1900024414062
     },
     "ROST": {
         "status": "LONG",
@@ -268,7 +270,9 @@
         "entry_price": 28.40999984741211
     },
     "KHC": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-02-24",
+        "entry_price": 24.780000686645508
     },
     "LULU": {
         "status": "FLAT"
