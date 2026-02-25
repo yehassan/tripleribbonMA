@@ -64,9 +64,11 @@
         "status": "FLAT"
     },
     "CMCSA": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-29",
-        "entry_price": 29.2549991607666
+        "entry_price": 29.2549991607666,
+        "exit_date": "2026-02-25",
+        "exit_price": 30.790000915527344
     },
     "CSCO": {
         "status": "FLAT",
@@ -165,9 +167,9 @@
         "exit_price": 40.869998931884766
     },
     "REGN": {
-        "status": "FLAT",
-        "entry_date": "2026-02-11",
-        "entry_price": 778.969970703125,
+        "status": "LONG",
+        "entry_date": "2026-02-25",
+        "entry_price": 784.280029296875,
         "exit_date": "2026-02-24",
         "exit_price": 772.1900024414062
     },
@@ -220,9 +222,11 @@
         "status": "FLAT"
     },
     "DLTR": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-17",
-        "entry_price": 128.52000427246094
+        "entry_price": 128.52000427246094,
+        "exit_date": "2026-02-25",
+        "exit_price": 127.69999694824219
     },
     "EA": {
         "status": "FLAT"
@@ -322,17 +326,21 @@
         "exit_price": 96.73999786376953
     },
     "PCAR": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-29",
-        "entry_price": 122.91000366210938
+        "entry_price": 122.91000366210938,
+        "exit_date": "2026-02-25",
+        "exit_price": 124.58000183105469
     },
     "PYPL": {
         "status": "FLAT"
     },
     "SIRI": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-13",
-        "entry_price": 21.290000915527344
+        "entry_price": 21.290000915527344,
+        "exit_date": "2026-02-25",
+        "exit_price": 20.920000076293945
     },
     "SNPS": {
         "status": "FLAT"
@@ -402,9 +410,9 @@
         "exit_price": 81.69000244140625
     },
     "NXPI": {
-        "status": "FLAT",
-        "entry_date": "2026-02-11",
-        "entry_price": 249.75,
+        "status": "LONG",
+        "entry_date": "2026-02-25",
+        "entry_price": 235.07000732421875,
         "exit_date": "2026-02-19",
         "exit_price": 232.11000061035156
     },
