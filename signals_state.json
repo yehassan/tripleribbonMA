@@ -41,11 +41,11 @@
         "status": "FLAT"
     },
     "NVDA": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-18",
         "entry_price": 187.97999572753906,
-        "exit_date": "2026-02-13",
-        "exit_price": 182.80999755859375
+        "exit_date": "2026-02-26",
+        "exit_price": 184.88999938964844
     },
     "AVGO": {
         "status": "FLAT"
@@ -100,9 +100,11 @@
         "entry_price": 346.6499938964844
     },
     "GILD": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-29",
-        "entry_price": 139.17999267578125
+        "entry_price": 139.17999267578125,
+        "exit_date": "2026-02-26",
+        "exit_price": 143.77000427246094
     },
     "ISRG": {
         "status": "FLAT"
@@ -167,11 +169,11 @@
         "exit_price": 40.869998931884766
     },
     "REGN": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-25",
         "entry_price": 784.280029296875,
-        "exit_date": "2026-02-24",
-        "exit_price": 772.1900024414062
+        "exit_date": "2026-02-26",
+        "exit_price": 770.7899780273438
     },
     "ROST": {
         "status": "LONG",
@@ -237,9 +239,9 @@
         "entry_price": 47.54999923706055
     },
     "FAST": {
-        "status": "FLAT",
-        "entry_date": "2026-01-30",
-        "entry_price": 43.36000061035156,
+        "status": "LONG",
+        "entry_date": "2026-02-26",
+        "entry_price": 45.68000030517578,
         "exit_date": "2026-02-23",
         "exit_price": 45.04999923706055
     },
@@ -336,9 +338,9 @@
         "status": "FLAT"
     },
     "SIRI": {
-        "status": "FLAT",
-        "entry_date": "2026-02-13",
-        "entry_price": 21.290000915527344,
+        "status": "LONG",
+        "entry_date": "2026-02-26",
+        "entry_price": 21.520000457763672,
         "exit_date": "2026-02-25",
         "exit_price": 20.920000076293945
     },
@@ -410,11 +412,11 @@
         "exit_price": 81.69000244140625
     },
     "NXPI": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-25",
         "entry_price": 235.07000732421875,
-        "exit_date": "2026-02-19",
-        "exit_price": 232.11000061035156
+        "exit_date": "2026-02-26",
+        "exit_price": 232.22999572753906
     },
     "AXON": {
         "status": "FLAT"
@@ -477,9 +479,11 @@
         "status": "FLAT"
     },
     "BIIB": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-30",
-        "entry_price": 179.88999938964844
+        "entry_price": 179.88999938964844,
+        "exit_date": "2026-02-26",
+        "exit_price": 188.02000427246094
     },
     "BKR": {
         "status": "LONG",
