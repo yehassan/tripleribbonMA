@@ -130,11 +130,11 @@
         "status": "FLAT"
     },
     "MDLZ": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-23",
         "entry_price": 60.380001068115234,
-        "exit_date": "2026-02-19",
-        "exit_price": 58.63999938964844
+        "exit_date": "2026-03-03",
+        "exit_price": 58.77000045776367
     },
     "ADP": {
         "status": "FLAT"
@@ -148,11 +148,11 @@
         "status": "FLAT"
     },
     "KLAC": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-11",
         "entry_price": 1479.5,
-        "exit_date": "2026-01-30",
-        "exit_price": 1427.93994140625
+        "exit_date": "2026-03-03",
+        "exit_price": 1441.3499755859375
     },
     "LRCX": {
         "status": "FLAT",
@@ -169,11 +169,11 @@
         "exit_price": 40.869998931884766
     },
     "REGN": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-27",
         "entry_price": 781.6699829101562,
-        "exit_date": "2026-02-26",
-        "exit_price": 770.7899780273438
+        "exit_date": "2026-03-03",
+        "exit_price": 766.6599731445312
     },
     "ROST": {
         "status": "LONG",
@@ -181,11 +181,11 @@
         "entry_price": 188.64999389648438
     },
     "VRTX": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-13",
         "entry_price": 491.4700012207031,
-        "exit_date": "2026-02-10",
-        "exit_price": 463.4800109863281
+        "exit_date": "2026-03-03",
+        "exit_price": 474.2699890136719
     },
     "ASML": {
         "status": "FLAT",
@@ -258,9 +258,11 @@
         "status": "FLAT"
     },
     "HAS": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-29",
-        "entry_price": 90.2738037109375
+        "entry_price": 90.2738037109375,
+        "exit_date": "2026-03-03",
+        "exit_price": 97.62999725341797
     },
     "IDXX": {
         "status": "FLAT"
@@ -278,9 +280,11 @@
         "entry_price": 28.40999984741211
     },
     "KHC": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-24",
-        "entry_price": 24.780000686645508
+        "entry_price": 24.780000686645508,
+        "exit_date": "2026-03-03",
+        "exit_price": 24.219999313354492
     },
     "LULU": {
         "status": "FLAT"
@@ -396,11 +400,11 @@
         "status": "FLAT"
     },
     "MU": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-11",
         "entry_price": 410.3399963378906,
-        "exit_date": "2026-02-10",
-        "exit_price": 373.25
+        "exit_date": "2026-03-03",
+        "exit_price": 379.67999267578125
     },
     "CEG": {
         "status": "FLAT"
@@ -518,9 +522,11 @@
         "status": "FLAT"
     },
     "ARM": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-27",
-        "entry_price": 127.44999694824219
+        "entry_price": 127.44999694824219,
+        "exit_date": "2026-03-03",
+        "exit_price": 121.72000122070312
     },
     "DASH": {
         "status": "FLAT"
