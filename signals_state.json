@@ -51,9 +51,11 @@
         "status": "FLAT"
     },
     "PEP": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-29",
-        "entry_price": 149.9499969482422
+        "entry_price": 149.9499969482422,
+        "exit_date": "2026-03-04",
+        "exit_price": 163.9199981689453
     },
     "COST": {
         "status": "LONG",
@@ -64,16 +66,16 @@
         "status": "FLAT"
     },
     "CMCSA": {
-        "status": "FLAT",
-        "entry_date": "2026-01-29",
-        "entry_price": 29.2549991607666,
+        "status": "LONG",
+        "entry_date": "2026-03-04",
+        "entry_price": 32.09000015258789,
         "exit_date": "2026-02-25",
         "exit_price": 30.790000915527344
     },
     "CSCO": {
-        "status": "FLAT",
-        "entry_date": "2026-01-29",
-        "entry_price": 78.69000244140625,
+        "status": "LONG",
+        "entry_date": "2026-03-04",
+        "entry_price": 80.87000274658203,
         "exit_date": "2026-02-12",
         "exit_price": 75.0
     },
@@ -169,9 +171,9 @@
         "exit_price": 40.869998931884766
     },
     "REGN": {
-        "status": "FLAT",
-        "entry_date": "2026-02-27",
-        "entry_price": 781.6699829101562,
+        "status": "LONG",
+        "entry_date": "2026-03-04",
+        "entry_price": 787.5,
         "exit_date": "2026-03-03",
         "exit_price": 766.6599731445312
     },
@@ -275,9 +277,11 @@
         "exit_price": 144.80999755859375
     },
     "KDP": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-06",
-        "entry_price": 28.40999984741211
+        "entry_price": 28.40999984741211,
+        "exit_date": "2026-03-04",
+        "exit_price": 28.8700008392334
     },
     "KHC": {
         "status": "FLAT",
@@ -334,9 +338,9 @@
         "exit_price": 96.73999786376953
     },
     "PCAR": {
-        "status": "FLAT",
-        "entry_date": "2026-02-27",
-        "entry_price": 126.08999633789062,
+        "status": "LONG",
+        "entry_date": "2026-03-04",
+        "entry_price": 124.91999816894531,
         "exit_date": "2026-03-02",
         "exit_price": 124.43000030517578
     },
@@ -491,16 +495,18 @@
         "status": "FLAT"
     },
     "BIIB": {
-        "status": "FLAT",
-        "entry_date": "2026-01-30",
-        "entry_price": 179.88999938964844,
+        "status": "LONG",
+        "entry_date": "2026-03-04",
+        "entry_price": 189.94000244140625,
         "exit_date": "2026-02-26",
         "exit_price": 188.02000427246094
     },
     "BKR": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-29",
-        "entry_price": 57.029998779296875
+        "entry_price": 57.029998779296875,
+        "exit_date": "2026-03-04",
+        "exit_price": 60.880001068115234
     },
     "TRI": {
         "status": "FLAT"
