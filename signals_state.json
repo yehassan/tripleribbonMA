@@ -68,11 +68,11 @@
         "status": "FLAT"
     },
     "CMCSA": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-03-04",
         "entry_price": 32.09000015258789,
-        "exit_date": "2026-02-25",
-        "exit_price": 30.790000915527344
+        "exit_date": "2026-03-09",
+        "exit_price": 31.040000915527344
     },
     "CSCO": {
         "status": "FLAT",
@@ -99,9 +99,9 @@
         "status": "FLAT"
     },
     "AMGN": {
-        "status": "FLAT",
-        "entry_date": "2026-01-29",
-        "entry_price": 346.6499938964844,
+        "status": "LONG",
+        "entry_date": "2026-03-09",
+        "entry_price": 376.9700012207031,
         "exit_date": "2026-03-05",
         "exit_price": 367.6000061035156
     },
@@ -177,9 +177,9 @@
         "exit_price": 40.869998931884766
     },
     "REGN": {
-        "status": "FLAT",
-        "entry_date": "2026-03-04",
-        "entry_price": 787.5,
+        "status": "LONG",
+        "entry_date": "2026-03-09",
+        "entry_price": 781.5999755859375,
         "exit_date": "2026-03-05",
         "exit_price": 764.9299926757812
     },
@@ -219,9 +219,11 @@
         "status": "FLAT"
     },
     "CHTR": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-10",
-        "entry_price": 248.19000244140625
+        "entry_price": 248.19000244140625,
+        "exit_date": "2026-03-09",
+        "exit_price": 222.80999755859375
     },
     "CTAS": {
         "status": "LONG",
