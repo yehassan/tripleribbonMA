@@ -58,9 +58,9 @@
         "exit_price": 163.9199981689453
     },
     "COST": {
-        "status": "FLAT",
-        "entry_date": "2026-03-06",
-        "entry_price": 998.0999755859375,
+        "status": "LONG",
+        "entry_date": "2026-03-12",
+        "entry_price": 1003.3200073242188,
         "exit_date": "2026-03-11",
         "exit_price": 992.22998046875
     },
@@ -82,11 +82,11 @@
         "exit_price": 78.63999938964844
     },
     "INTC": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-03-11",
         "entry_price": 47.97999954223633,
-        "exit_date": "2026-02-10",
-        "exit_price": 47.130001068115234
+        "exit_date": "2026-03-12",
+        "exit_price": 45.25
     },
     "AMD": {
         "status": "FLAT",
@@ -99,11 +99,11 @@
         "status": "FLAT"
     },
     "AMGN": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-03-09",
         "entry_price": 376.9700012207031,
-        "exit_date": "2026-03-05",
-        "exit_price": 367.6000061035156
+        "exit_date": "2026-03-12",
+        "exit_price": 367.7900085449219
     },
     "GILD": {
         "status": "FLAT",
@@ -251,11 +251,11 @@
         "entry_price": 47.54999923706055
     },
     "FAST": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-26",
         "entry_price": 45.68000030517578,
-        "exit_date": "2026-02-23",
-        "exit_price": 45.04999923706055
+        "exit_date": "2026-03-12",
+        "exit_price": 45.25
     },
     "FOX": {
         "status": "FLAT",
@@ -511,11 +511,11 @@
         "status": "FLAT"
     },
     "BIIB": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-03-11",
         "entry_price": 190.47999572753906,
-        "exit_date": "2026-03-05",
-        "exit_price": 188.0800018310547
+        "exit_date": "2026-03-12",
+        "exit_price": 184.89999389648438
     },
     "BKR": {
         "status": "FLAT",
@@ -528,16 +528,18 @@
         "status": "FLAT"
     },
     "ABNB": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-03-02",
-        "entry_price": 133.25999450683594
+        "entry_price": 133.25999450683594,
+        "exit_date": "2026-03-12",
+        "exit_price": 127.69999694824219
     },
     "HON": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-03-10",
         "entry_price": 240.61000061035156,
-        "exit_date": "2026-03-06",
-        "exit_price": 235.2899932861328
+        "exit_date": "2026-03-12",
+        "exit_price": 233.39999389648438
     },
     "PANW": {
         "status": "FLAT"
@@ -566,9 +568,9 @@
         "status": "FLAT"
     },
     "LIN": {
-        "status": "FLAT",
-        "entry_date": "2026-02-10",
-        "entry_price": 460.510009765625,
+        "status": "LONG",
+        "entry_date": "2026-03-12",
+        "entry_price": 490.4100036621094,
         "exit_date": "2026-03-06",
         "exit_price": 484.739990234375
     },
