@@ -123,7 +123,9 @@
         "exit_price": 213.35000610351562
     },
     "NFLX": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-03-13",
+        "entry_price": 95.30999755859375
     },
     "SBUX": {
         "status": "LONG",
@@ -189,11 +191,11 @@
         "entry_price": 188.64999389648438
     },
     "VRTX": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-03-10",
         "entry_price": 499.1700134277344,
-        "exit_date": "2026-03-03",
-        "exit_price": 474.2699890136719
+        "exit_date": "2026-03-13",
+        "exit_price": 469.3399963378906
     },
     "ASML": {
         "status": "FLAT",
@@ -372,9 +374,9 @@
         "status": "FLAT"
     },
     "TMUS": {
-        "status": "FLAT",
-        "entry_date": "2026-02-18",
-        "entry_price": 213.25,
+        "status": "LONG",
+        "entry_date": "2026-03-13",
+        "entry_price": 217.38999938964844,
         "exit_date": "2026-03-11",
         "exit_price": 213.44000244140625
     },
@@ -396,9 +398,9 @@
         "exit_price": 28.170000076293945
     },
     "XEL": {
-        "status": "FLAT",
-        "entry_date": "2026-02-11",
-        "entry_price": 77.91999816894531,
+        "status": "LONG",
+        "entry_date": "2026-03-13",
+        "entry_price": 81.91000366210938,
         "exit_date": "2026-03-11",
         "exit_price": 81.0
     },
