@@ -128,11 +128,11 @@
         "entry_price": 95.30999755859375
     },
     "SBUX": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-24",
         "entry_price": 96.51000213623047,
-        "exit_date": "2026-02-23",
-        "exit_price": 94.77999877929688
+        "exit_date": "2026-03-16",
+        "exit_price": 97.81999969482422
     },
     "INTU": {
         "status": "FLAT"
