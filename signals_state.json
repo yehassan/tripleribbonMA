@@ -374,11 +374,11 @@
         "status": "FLAT"
     },
     "TMUS": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-03-13",
         "entry_price": 217.38999938964844,
-        "exit_date": "2026-03-11",
-        "exit_price": 213.44000244140625
+        "exit_date": "2026-03-17",
+        "exit_price": 213.35000610351562
     },
     "TTD": {
         "status": "FLAT"
@@ -530,9 +530,9 @@
         "status": "FLAT"
     },
     "ABNB": {
-        "status": "FLAT",
-        "entry_date": "2026-03-02",
-        "entry_price": 133.25999450683594,
+        "status": "LONG",
+        "entry_date": "2026-03-17",
+        "entry_price": 131.9499969482422,
         "exit_date": "2026-03-12",
         "exit_price": 127.69999694824219
     },
