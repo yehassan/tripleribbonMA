@@ -58,11 +58,11 @@
         "exit_price": 163.9199981689453
     },
     "COST": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-03-12",
         "entry_price": 1003.3200073242188,
-        "exit_date": "2026-03-11",
-        "exit_price": 992.22998046875
+        "exit_date": "2026-03-18",
+        "exit_price": 979.9199829101562
     },
     "ADBE": {
         "status": "FLAT"
@@ -398,11 +398,11 @@
         "exit_price": 28.170000076293945
     },
     "XEL": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-03-13",
         "entry_price": 81.91000366210938,
-        "exit_date": "2026-03-11",
-        "exit_price": 81.0
+        "exit_date": "2026-03-18",
+        "exit_price": 80.0199966430664
     },
     "ZM": {
         "status": "FLAT",
