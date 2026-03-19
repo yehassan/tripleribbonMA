@@ -123,9 +123,11 @@
         "exit_price": 213.35000610351562
     },
     "NFLX": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-03-13",
-        "entry_price": 95.30999755859375
+        "entry_price": 95.30999755859375,
+        "exit_date": "2026-03-19",
+        "exit_price": 91.73999786376953
     },
     "SBUX": {
         "status": "FLAT",
@@ -158,9 +160,9 @@
         "status": "FLAT"
     },
     "KLAC": {
-        "status": "FLAT",
-        "entry_date": "2026-02-11",
-        "entry_price": 1479.5,
+        "status": "LONG",
+        "entry_date": "2026-03-19",
+        "entry_price": 1511.52001953125,
         "exit_date": "2026-03-03",
         "exit_price": 1441.3499755859375
     },
@@ -248,9 +250,11 @@
         "status": "FLAT"
     },
     "EXC": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-12",
-        "entry_price": 47.54999923706055
+        "entry_price": 47.54999923706055,
+        "exit_date": "2026-03-19",
+        "exit_price": 48.0099983215332
     },
     "FAST": {
         "status": "FLAT",
@@ -428,9 +432,11 @@
         "status": "FLAT"
     },
     "AEP": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-29",
-        "entry_price": 119.27989959716797
+        "entry_price": 119.27989959716797,
+        "exit_date": "2026-03-19",
+        "exit_price": 128.72000122070312
     },
     "FTNT": {
         "status": "LONG",
@@ -550,9 +556,9 @@
         "status": "FLAT"
     },
     "ARM": {
-        "status": "FLAT",
-        "entry_date": "2026-02-27",
-        "entry_price": 127.44999694824219,
+        "status": "LONG",
+        "entry_date": "2026-03-19",
+        "entry_price": 129.82000732421875,
         "exit_date": "2026-03-03",
         "exit_price": 121.72000122070312
     },
