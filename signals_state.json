@@ -167,18 +167,18 @@
         "exit_price": 1441.3499755859375
     },
     "LRCX": {
-        "status": "FLAT",
-        "entry_date": "2026-02-06",
-        "entry_price": 231.00999450683594,
+        "status": "LONG",
+        "entry_date": "2026-03-20",
+        "entry_price": 228.36000061035156,
         "exit_date": "2026-03-02",
         "exit_price": 231.0
     },
     "MRNA": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-02-13",
         "entry_price": 42.22999954223633,
-        "exit_date": "2026-02-05",
-        "exit_price": 40.869998931884766
+        "exit_date": "2026-03-20",
+        "exit_price": 51.380001068115234
     },
     "REGN": {
         "status": "FLAT",
@@ -439,11 +439,11 @@
         "exit_price": 128.72000122070312
     },
     "FTNT": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-03-06",
         "entry_price": 83.66999816894531,
-        "exit_date": "2026-02-17",
-        "exit_price": 81.69000244140625
+        "exit_date": "2026-03-20",
+        "exit_price": 81.4000015258789
     },
     "NXPI": {
         "status": "FLAT",
@@ -536,11 +536,11 @@
         "status": "FLAT"
     },
     "ABNB": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-03-17",
         "entry_price": 131.9499969482422,
-        "exit_date": "2026-03-12",
-        "exit_price": 127.69999694824219
+        "exit_date": "2026-03-20",
+        "exit_price": 128.52000427246094
     },
     "HON": {
         "status": "FLAT",
