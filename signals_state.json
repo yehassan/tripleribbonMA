@@ -174,9 +174,9 @@
         "exit_price": 231.0
     },
     "MRNA": {
-        "status": "FLAT",
-        "entry_date": "2026-02-13",
-        "entry_price": 42.22999954223633,
+        "status": "LONG",
+        "entry_date": "2026-03-25",
+        "entry_price": 53.540000915527344,
         "exit_date": "2026-03-20",
         "exit_price": 51.380001068115234
     },
@@ -536,9 +536,9 @@
         "status": "FLAT"
     },
     "ABNB": {
-        "status": "FLAT",
-        "entry_date": "2026-03-23",
-        "entry_price": 132.58999633789062,
+        "status": "LONG",
+        "entry_date": "2026-03-25",
+        "entry_price": 131.80999755859375,
         "exit_date": "2026-03-24",
         "exit_price": 130.0
     },
@@ -576,9 +576,9 @@
         "status": "FLAT"
     },
     "LIN": {
-        "status": "FLAT",
-        "entry_date": "2026-03-12",
-        "entry_price": 490.4100036621094,
+        "status": "LONG",
+        "entry_date": "2026-03-25",
+        "entry_price": 492.3399963378906,
         "exit_date": "2026-03-23",
         "exit_price": 478.04998779296875
     },
