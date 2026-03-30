@@ -75,11 +75,11 @@
         "exit_price": 31.040000915527344
     },
     "CSCO": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-03-24",
         "entry_price": 80.86000061035156,
-        "exit_date": "2026-03-06",
-        "exit_price": 78.63999938964844
+        "exit_date": "2026-03-30",
+        "exit_price": 77.04000091552734
     },
     "INTC": {
         "status": "FLAT",
@@ -188,9 +188,11 @@
         "exit_price": 772.030029296875
     },
     "ROST": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-01-30",
-        "entry_price": 188.64999389648438
+        "entry_price": 188.64999389648438,
+        "exit_date": "2026-03-30",
+        "exit_price": 208.7899932861328
     },
     "VRTX": {
         "status": "FLAT",
@@ -250,9 +252,9 @@
         "status": "FLAT"
     },
     "EXC": {
-        "status": "FLAT",
-        "entry_date": "2026-02-12",
-        "entry_price": 47.54999923706055,
+        "status": "LONG",
+        "entry_date": "2026-03-30",
+        "entry_price": 49.11000061035156,
         "exit_date": "2026-03-19",
         "exit_price": 48.0099983215332
     },
