@@ -188,9 +188,9 @@
         "exit_price": 772.030029296875
     },
     "ROST": {
-        "status": "FLAT",
-        "entry_date": "2026-01-30",
-        "entry_price": 188.64999389648438,
+        "status": "LONG",
+        "entry_date": "2026-03-31",
+        "entry_price": 216.6300048828125,
         "exit_date": "2026-03-30",
         "exit_price": 208.7899932861328
     },
@@ -434,9 +434,9 @@
         "status": "FLAT"
     },
     "AEP": {
-        "status": "FLAT",
-        "entry_date": "2026-01-29",
-        "entry_price": 119.27989959716797,
+        "status": "LONG",
+        "entry_date": "2026-03-31",
+        "entry_price": 131.0800018310547,
         "exit_date": "2026-03-19",
         "exit_price": 128.72000122070312
     },
