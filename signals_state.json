@@ -82,9 +82,9 @@
         "exit_price": 77.04000091552734
     },
     "INTC": {
-        "status": "FLAT",
-        "entry_date": "2026-03-11",
-        "entry_price": 47.97999954223633,
+        "status": "LONG",
+        "entry_date": "2026-04-02",
+        "entry_price": 50.380001068115234,
         "exit_date": "2026-03-12",
         "exit_price": 45.25
     },
@@ -181,9 +181,9 @@
         "exit_price": 49.560001373291016
     },
     "REGN": {
-        "status": "FLAT",
-        "entry_date": "2026-03-09",
-        "entry_price": 781.5999755859375,
+        "status": "LONG",
+        "entry_date": "2026-04-02",
+        "entry_price": 761.8499755859375,
         "exit_date": "2026-03-10",
         "exit_price": 772.030029296875
     },
