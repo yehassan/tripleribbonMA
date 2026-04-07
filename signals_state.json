@@ -376,7 +376,9 @@
         "status": "FLAT"
     },
     "SWKS": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-04-07",
+        "entry_price": 23.709999084472656
     },
     "TEAM": {
         "status": "FLAT"
@@ -392,11 +394,11 @@
         "status": "FLAT"
     },
     "VOD": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-01",
         "entry_price": 15.130000114440918,
-        "exit_date": "2026-03-02",
-        "exit_price": 15.180000305175781
+        "exit_date": "2026-04-07",
+        "exit_price": 20.700000762939453
     },
     "WBD": {
         "status": "FLAT",
@@ -420,7 +422,9 @@
         "exit_price": 88.6500015258789
     },
     "ZS": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-04-07",
+        "entry_price": 80.54000091552734
     },
     "PLTR": {
         "status": "FLAT"
@@ -436,23 +440,23 @@
         "status": "FLAT"
     },
     "AEP": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-03-31",
         "entry_price": 131.0800018310547,
-        "exit_date": "2026-03-19",
-        "exit_price": 128.72000122070312
+        "exit_date": "2026-04-07",
+        "exit_price": 377.5799865722656
     },
     "FTNT": {
-        "status": "FLAT",
-        "entry_date": "2026-03-06",
-        "entry_price": 83.66999816894531,
+        "status": "LONG",
+        "entry_date": "2026-04-07",
+        "entry_price": 83.72000122070312,
         "exit_date": "2026-03-20",
         "exit_price": 81.4000015258789
     },
     "NXPI": {
-        "status": "FLAT",
-        "entry_date": "2026-02-25",
-        "entry_price": 235.07000732421875,
+        "status": "LONG",
+        "entry_date": "2026-04-07",
+        "entry_price": 132.9199981689453,
         "exit_date": "2026-02-26",
         "exit_price": 232.22999572753906
     },
@@ -476,11 +480,11 @@
         "status": "FLAT"
     },
     "ODFL": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-01",
         "entry_price": 199.6300048828125,
-        "exit_date": "2026-03-06",
-        "exit_price": 193.97000122070312
+        "exit_date": "2026-04-07",
+        "exit_price": 91.61000061035156
     },
     "GEHC": {
         "status": "FLAT",
@@ -490,7 +494,9 @@
         "exit_price": 80.16000366210938
     },
     "TTWO": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-04-07",
+        "entry_price": 198.92999267578125
     },
     "CSGP": {
         "status": "FLAT"
@@ -506,9 +512,9 @@
         "status": "FLAT"
     },
     "ON": {
-        "status": "FLAT",
-        "entry_date": "2026-02-04",
-        "entry_price": 62.060001373291016,
+        "status": "LONG",
+        "entry_date": "2026-04-07",
+        "entry_price": 63.790000915527344,
         "exit_date": "2026-02-27",
         "exit_price": 66.4800033569336
     },
@@ -530,9 +536,9 @@
         "exit_price": 184.89999389648438
     },
     "BKR": {
-        "status": "FLAT",
-        "entry_date": "2026-03-23",
-        "entry_price": 62.529998779296875,
+        "status": "LONG",
+        "entry_date": "2026-04-07",
+        "entry_price": 61.25,
         "exit_date": "2026-04-01",
         "exit_price": 60.34000015258789
     },
@@ -570,9 +576,9 @@
         "status": "FLAT"
     },
     "ADI": {
-        "status": "FLAT",
-        "entry_date": "2026-01-29",
-        "entry_price": 316.3500061035156,
+        "status": "LONG",
+        "entry_date": "2026-04-07",
+        "entry_price": 327.4100036621094,
         "exit_date": "2026-03-05",
         "exit_price": 329.7200012207031
     },
@@ -602,5 +608,10 @@
         "status": "LONG",
         "entry_date": "2026-01-29",
         "entry_price": 164.80999755859375
+    },
+    "WBA": {
+        "status": "LONG",
+        "entry_date": "2026-04-07",
+        "entry_price": 15.3100004196167
     }
 }
