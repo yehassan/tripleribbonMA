@@ -58,11 +58,11 @@
         "exit_price": 163.9199981689453
     },
     "COST": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-01",
         "entry_price": 996.5599975585938,
-        "exit_date": "2026-03-18",
-        "exit_price": 979.9199829101562
+        "exit_date": "2026-04-10",
+        "exit_price": 998.469970703125
     },
     "ADBE": {
         "status": "FLAT"
@@ -181,11 +181,11 @@
         "exit_price": 49.560001373291016
     },
     "REGN": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-02",
         "entry_price": 761.8499755859375,
-        "exit_date": "2026-03-10",
-        "exit_price": 772.030029296875
+        "exit_date": "2026-04-10",
+        "exit_price": 748.8699951171875
     },
     "ROST": {
         "status": "LONG",
@@ -225,11 +225,11 @@
         "status": "FLAT"
     },
     "CHTR": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-09",
         "entry_price": 223.22999572753906,
-        "exit_date": "2026-03-09",
-        "exit_price": 222.80999755859375
+        "exit_date": "2026-04-10",
+        "exit_price": 218.82000732421875
     },
     "CTAS": {
         "status": "FLAT",
@@ -256,11 +256,11 @@
         "exit_price": 202.1999969482422
     },
     "EXC": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-03-30",
         "entry_price": 49.11000061035156,
-        "exit_date": "2026-03-19",
-        "exit_price": 48.0099983215332
+        "exit_date": "2026-04-10",
+        "exit_price": 48.56999969482422
     },
     "FAST": {
         "status": "LONG",
@@ -434,9 +434,9 @@
         "status": "FLAT"
     },
     "MU": {
-        "status": "FLAT",
-        "entry_date": "2026-03-11",
-        "entry_price": 418.69000244140625,
+        "status": "LONG",
+        "entry_date": "2026-04-10",
+        "entry_price": 420.5899963378906,
         "exit_date": "2026-03-23",
         "exit_price": 404.3500061035156
     },
@@ -559,9 +559,9 @@
         "exit_price": 122.87000274658203
     },
     "HON": {
-        "status": "FLAT",
-        "entry_date": "2026-03-10",
-        "entry_price": 240.61000061035156,
+        "status": "LONG",
+        "entry_date": "2026-04-10",
+        "entry_price": 235.0399932861328,
         "exit_date": "2026-03-12",
         "exit_price": 233.39999389648438
     },
