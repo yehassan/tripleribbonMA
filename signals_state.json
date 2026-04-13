@@ -10,9 +10,9 @@
         "status": "FLAT"
     },
     "AMZN": {
-        "status": "FLAT",
-        "entry_date": "2026-01-29",
-        "entry_price": 239.47500610351562,
+        "status": "LONG",
+        "entry_date": "2026-04-13",
+        "entry_price": 239.88999938964844,
         "exit_date": "2026-02-03",
         "exit_price": 236.52999877929688
     },
@@ -48,7 +48,9 @@
         "exit_price": 184.88999938964844
     },
     "AVGO": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-04-13",
+        "entry_price": 379.75
     },
     "PEP": {
         "status": "FLAT",
@@ -140,11 +142,11 @@
         "status": "FLAT"
     },
     "MDLZ": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-08",
         "entry_price": 58.83000183105469,
-        "exit_date": "2026-03-03",
-        "exit_price": 58.77000045776367
+        "exit_date": "2026-04-13",
+        "exit_price": 57.68000030517578
     },
     "ADP": {
         "status": "FLAT"
@@ -225,9 +227,9 @@
         "status": "FLAT"
     },
     "CHTR": {
-        "status": "FLAT",
-        "entry_date": "2026-04-09",
-        "entry_price": 223.22999572753906,
+        "status": "LONG",
+        "entry_date": "2026-04-13",
+        "entry_price": 226.3000030517578,
         "exit_date": "2026-04-10",
         "exit_price": 218.82000732421875
     },
@@ -263,11 +265,11 @@
         "exit_price": 48.56999969482422
     },
     "FAST": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-01",
         "entry_price": 46.630001068115234,
-        "exit_date": "2026-03-12",
-        "exit_price": 45.25
+        "exit_date": "2026-04-13",
+        "exit_price": 45.79999923706055
     },
     "FOX": {
         "status": "FLAT",
