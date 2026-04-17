@@ -125,11 +125,11 @@
         "exit_price": 213.35000610351562
     },
     "NFLX": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-03-26",
         "entry_price": 93.31999969482422,
-        "exit_date": "2026-03-19",
-        "exit_price": 91.73999786376953
+        "exit_date": "2026-04-17",
+        "exit_price": 97.30999755859375
     },
     "SBUX": {
         "status": "LONG",
@@ -292,9 +292,9 @@
         "status": "FLAT"
     },
     "ILMN": {
-        "status": "FLAT",
-        "entry_date": "2026-01-29",
-        "entry_price": 149.69000244140625,
+        "status": "LONG",
+        "entry_date": "2026-04-17",
+        "entry_price": 134.5,
         "exit_date": "2026-01-30",
         "exit_price": 144.80999755859375
     },
@@ -419,9 +419,9 @@
         "exit_price": 79.83000183105469
     },
     "ZM": {
-        "status": "FLAT",
-        "entry_date": "2026-02-04",
-        "entry_price": 90.83000183105469,
+        "status": "LONG",
+        "entry_date": "2026-04-17",
+        "entry_price": 88.0199966430664,
         "exit_date": "2026-02-17",
         "exit_price": 88.6500015258789
     },
@@ -561,9 +561,9 @@
         "exit_price": 122.87000274658203
     },
     "HON": {
-        "status": "FLAT",
-        "entry_date": "2026-04-10",
-        "entry_price": 235.0399932861328,
+        "status": "LONG",
+        "entry_date": "2026-04-17",
+        "entry_price": 233.5500030517578,
         "exit_date": "2026-04-16",
         "exit_price": 229.3800048828125
     },
@@ -594,11 +594,11 @@
         "status": "FLAT"
     },
     "LIN": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-03-25",
         "entry_price": 492.3399963378906,
-        "exit_date": "2026-03-23",
-        "exit_price": 478.04998779296875
+        "exit_date": "2026-04-17",
+        "exit_price": 492.2300109863281
     },
     "APP": {
         "status": "FLAT"
