@@ -1,8 +1,8 @@
 {
     "AAPL": {
-        "status": "FLAT",
-        "entry_date": "2026-02-23",
-        "entry_price": 266.17999267578125,
+        "status": "LONG",
+        "entry_date": "2026-04-20",
+        "entry_price": 273.04998779296875,
         "exit_date": "2026-02-27",
         "exit_price": 264.17999267578125
     },
@@ -534,7 +534,9 @@
         "exit_price": 44.09000015258789
     },
     "CDW": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-04-20",
+        "entry_price": 136.85000610351562
     },
     "BIIB": {
         "status": "FLAT",
@@ -561,11 +563,11 @@
         "exit_price": 122.87000274658203
     },
     "HON": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-17",
         "entry_price": 233.5500030517578,
-        "exit_date": "2026-04-16",
-        "exit_price": 229.3800048828125
+        "exit_date": "2026-04-20",
+        "exit_price": 229.74000549316406
     },
     "PANW": {
         "status": "FLAT"
