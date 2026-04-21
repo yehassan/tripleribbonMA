@@ -31,9 +31,9 @@
         "exit_price": 331.3299865722656
     },
     "META": {
-        "status": "FLAT",
-        "entry_date": "2026-02-09",
-        "entry_price": 677.219970703125,
+        "status": "LONG",
+        "entry_date": "2026-04-21",
+        "entry_price": 668.8400268554688,
         "exit_date": "2026-02-11",
         "exit_price": 668.6900024414062
     },
@@ -53,16 +53,16 @@
         "entry_price": 379.75
     },
     "PEP": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-16",
         "entry_price": 158.3800048828125,
-        "exit_date": "2026-03-04",
-        "exit_price": 163.9199981689453
+        "exit_date": "2026-04-21",
+        "exit_price": 154.9199981689453
     },
     "COST": {
-        "status": "FLAT",
-        "entry_date": "2026-04-01",
-        "entry_price": 996.5599975585938,
+        "status": "LONG",
+        "entry_date": "2026-04-21",
+        "entry_price": 1005.8099975585938,
         "exit_date": "2026-04-10",
         "exit_price": 998.469970703125
     },
@@ -224,7 +224,9 @@
         "status": "FLAT"
     },
     "CDNS": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-04-21",
+        "entry_price": 325.8399963378906
     },
     "CHTR": {
         "status": "LONG",
@@ -279,14 +281,16 @@
         "exit_price": 63.20000076293945
     },
     "FOXA": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-04-21",
+        "entry_price": 64.30999755859375
     },
     "HAS": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-16",
         "entry_price": 93.3499984741211,
-        "exit_date": "2026-03-03",
-        "exit_price": 97.62999725341797
+        "exit_date": "2026-04-21",
+        "exit_price": 91.06999969482422
     },
     "IDXX": {
         "status": "FLAT"
@@ -347,7 +351,9 @@
         "status": "FLAT"
     },
     "NTAP": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-04-21",
+        "entry_price": 111.80000305175781
     },
     "OKTA": {
         "status": "FLAT"
@@ -398,11 +404,11 @@
         "status": "FLAT"
     },
     "VOD": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-08",
         "entry_price": 15.770000457763672,
-        "exit_date": "2026-04-07",
-        "exit_price": 20.700000762939453
+        "exit_date": "2026-04-21",
+        "exit_price": 15.1899995803833
     },
     "WBD": {
         "status": "FLAT",
@@ -412,11 +418,11 @@
         "exit_price": 28.170000076293945
     },
     "XEL": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-16",
         "entry_price": 81.05000305175781,
-        "exit_date": "2026-04-14",
-        "exit_price": 79.83000183105469
+        "exit_date": "2026-04-21",
+        "exit_price": 79.08000183105469
     },
     "ZM": {
         "status": "LONG",
@@ -446,16 +452,16 @@
         "status": "FLAT"
     },
     "AEP": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-08",
         "entry_price": 134.7100067138672,
-        "exit_date": "2026-04-07",
-        "exit_price": 377.5799865722656
+        "exit_date": "2026-04-21",
+        "exit_price": 131.88999938964844
     },
     "FTNT": {
-        "status": "FLAT",
-        "entry_date": "2026-04-07",
-        "entry_price": 83.72000122070312,
+        "status": "LONG",
+        "entry_date": "2026-04-21",
+        "entry_price": 85.26000213623047,
         "exit_date": "2026-04-09",
         "exit_price": 80.66000366210938
     },
