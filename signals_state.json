@@ -60,11 +60,11 @@
         "exit_price": 154.9199981689453
     },
     "COST": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-21",
         "entry_price": 1005.8099975585938,
-        "exit_date": "2026-04-10",
-        "exit_price": 998.469970703125
+        "exit_date": "2026-04-27",
+        "exit_price": 998.010009765625
     },
     "ADBE": {
         "status": "FLAT"
@@ -276,9 +276,9 @@
         "exit_price": 45.79999923706055
     },
     "FOX": {
-        "status": "FLAT",
-        "entry_date": "2026-04-22",
-        "entry_price": 58.56999969482422,
+        "status": "LONG",
+        "entry_date": "2026-04-27",
+        "entry_price": 57.119998931884766,
         "exit_date": "2026-04-24",
         "exit_price": 46.91999816894531
     },
@@ -295,9 +295,11 @@
         "exit_price": 91.06999969482422
     },
     "IDXX": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-24",
-        "entry_price": 95.08000183105469
+        "entry_price": 95.08000183105469,
+        "exit_date": "2026-04-27",
+        "exit_price": 574.9500122070312
     },
     "ILMN": {
         "status": "FLAT",
@@ -484,11 +486,11 @@
         "status": "FLAT"
     },
     "CCEP": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-24",
         "entry_price": 98.05999755859375,
-        "exit_date": "2026-03-05",
-        "exit_price": 101.68000030517578
+        "exit_date": "2026-04-27",
+        "exit_price": 96.1500015258789
     },
     "CPRT": {
         "status": "FLAT"
@@ -553,11 +555,11 @@
         "entry_price": 136.85000610351562
     },
     "BIIB": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-24",
         "entry_price": 184.3800048828125,
-        "exit_date": "2026-03-12",
-        "exit_price": 184.89999389648438
+        "exit_date": "2026-04-27",
+        "exit_price": 180.6699981689453
     },
     "BKR": {
         "status": "LONG",
