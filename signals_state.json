@@ -142,9 +142,9 @@
         "status": "FLAT"
     },
     "MDLZ": {
-        "status": "FLAT",
-        "entry_date": "2026-04-08",
-        "entry_price": 58.83000183105469,
+        "status": "LONG",
+        "entry_date": "2026-04-28",
+        "entry_price": 58.540000915527344,
         "exit_date": "2026-04-13",
         "exit_price": 57.68000030517578
     },
@@ -169,11 +169,11 @@
         "exit_price": 1451.1300048828125
     },
     "LRCX": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-08",
         "entry_price": 246.49000549316406,
-        "exit_date": "2026-03-26",
-        "exit_price": 211.6199951171875
+        "exit_date": "2026-04-28",
+        "exit_price": 251.22999572753906
     },
     "MRNA": {
         "status": "FLAT",
@@ -204,11 +204,11 @@
         "exit_price": 469.3399963378906
     },
     "ASML": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-24",
         "entry_price": 1457.699951171875,
-        "exit_date": "2026-04-23",
-        "exit_price": 1417.800048828125
+        "exit_date": "2026-04-28",
+        "exit_price": 1384.56005859375
     },
     "ADSK": {
         "status": "FLAT"
@@ -372,11 +372,11 @@
         "exit_price": 96.73999786376953
     },
     "PCAR": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-09",
         "entry_price": 127.05000305175781,
-        "exit_date": "2026-03-05",
-        "exit_price": 123.33999633789062
+        "exit_date": "2026-04-28",
+        "exit_price": 119.61000061035156
     },
     "PYPL": {
         "status": "LONG",
@@ -486,9 +486,9 @@
         "status": "FLAT"
     },
     "CCEP": {
-        "status": "FLAT",
-        "entry_date": "2026-04-24",
-        "entry_price": 98.05999755859375,
+        "status": "LONG",
+        "entry_date": "2026-04-28",
+        "entry_price": 97.23999786376953,
         "exit_date": "2026-04-27",
         "exit_price": 96.1500015258789
     },
@@ -555,9 +555,9 @@
         "entry_price": 136.85000610351562
     },
     "BIIB": {
-        "status": "FLAT",
-        "entry_date": "2026-04-24",
-        "entry_price": 184.3800048828125,
+        "status": "LONG",
+        "entry_date": "2026-04-28",
+        "entry_price": 183.3800048828125,
         "exit_date": "2026-04-27",
         "exit_price": 180.6699981689453
     },
@@ -629,7 +629,9 @@
         "status": "FLAT"
     },
     "DDOG": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-04-28",
+        "entry_price": 131.5500030517578
     },
     "WDAY": {
         "status": "FLAT"
