@@ -7,7 +7,9 @@
         "exit_price": 264.17999267578125
     },
     "MSFT": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-04-29",
+        "entry_price": 424.4599914550781
     },
     "AMZN": {
         "status": "LONG",
@@ -159,7 +161,9 @@
         "exit_price": 41.150001525878906
     },
     "FISV": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-04-29",
+        "entry_price": 62.02000045776367
     },
     "KLAC": {
         "status": "LONG",
@@ -309,9 +313,9 @@
         "exit_price": 125.44000244140625
     },
     "KDP": {
-        "status": "FLAT",
-        "entry_date": "2026-02-06",
-        "entry_price": 28.40999984741211,
+        "status": "LONG",
+        "entry_date": "2026-04-29",
+        "entry_price": 28.93000030517578,
         "exit_date": "2026-03-04",
         "exit_price": 28.8700008392334
     },
@@ -326,11 +330,11 @@
         "status": "FLAT"
     },
     "MAR": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-06",
         "entry_price": 338.0,
-        "exit_date": "2026-03-02",
-        "exit_price": 330.4700012207031
+        "exit_date": "2026-04-29",
+        "exit_price": 353.95001220703125
     },
     "MCHP": {
         "status": "LONG",
@@ -414,11 +418,11 @@
         "status": "FLAT"
     },
     "VOD": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-23",
         "entry_price": 15.619999885559082,
-        "exit_date": "2026-04-21",
-        "exit_price": 15.1899995803833
+        "exit_date": "2026-04-29",
+        "exit_price": 15.34000015258789
     },
     "WBD": {
         "status": "FLAT",
@@ -486,11 +490,11 @@
         "status": "FLAT"
     },
     "CCEP": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-28",
         "entry_price": 97.23999786376953,
-        "exit_date": "2026-04-27",
-        "exit_price": 96.1500015258789
+        "exit_date": "2026-04-29",
+        "exit_price": 93.75
     },
     "CPRT": {
         "status": "FLAT"
@@ -502,11 +506,11 @@
         "status": "FLAT"
     },
     "ODFL": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-08",
         "entry_price": 207.52999877929688,
-        "exit_date": "2026-04-07",
-        "exit_price": 91.61000061035156
+        "exit_date": "2026-04-29",
+        "exit_price": 209.35000610351562
     },
     "GEHC": {
         "status": "FLAT",
