@@ -7,9 +7,11 @@
         "exit_price": 264.17999267578125
     },
     "MSFT": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-29",
-        "entry_price": 424.4599914550781
+        "entry_price": 424.4599914550781,
+        "exit_date": "2026-04-30",
+        "exit_price": 407.7799987792969
     },
     "AMZN": {
         "status": "LONG",
@@ -33,11 +35,11 @@
         "exit_price": 331.3299865722656
     },
     "META": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-21",
         "entry_price": 668.8400268554688,
-        "exit_date": "2026-02-11",
-        "exit_price": 668.6900024414062
+        "exit_date": "2026-04-30",
+        "exit_price": 611.9099731445312
     },
     "TSLA": {
         "status": "FLAT"
@@ -55,16 +57,16 @@
         "entry_price": 379.75
     },
     "PEP": {
-        "status": "FLAT",
-        "entry_date": "2026-04-16",
-        "entry_price": 158.3800048828125,
+        "status": "LONG",
+        "entry_date": "2026-04-30",
+        "entry_price": 158.49000549316406,
         "exit_date": "2026-04-21",
         "exit_price": 154.9199981689453
     },
     "COST": {
-        "status": "FLAT",
-        "entry_date": "2026-04-21",
-        "entry_price": 1005.8099975585938,
+        "status": "LONG",
+        "entry_date": "2026-04-30",
+        "entry_price": 1014.530029296875,
         "exit_date": "2026-04-27",
         "exit_price": 998.010009765625
     },
@@ -100,7 +102,9 @@
         "exit_price": 200.19000244140625
     },
     "QCOM": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-04-30",
+        "entry_price": 179.5800018310547
     },
     "AMGN": {
         "status": "FLAT",
@@ -173,9 +177,9 @@
         "exit_price": 1451.1300048828125
     },
     "LRCX": {
-        "status": "FLAT",
-        "entry_date": "2026-04-08",
-        "entry_price": 246.49000549316406,
+        "status": "LONG",
+        "entry_date": "2026-04-30",
+        "entry_price": 257.8599853515625,
         "exit_date": "2026-04-28",
         "exit_price": 251.22999572753906
     },
@@ -208,9 +212,9 @@
         "exit_price": 469.3399963378906
     },
     "ASML": {
-        "status": "FLAT",
-        "entry_date": "2026-04-24",
-        "entry_price": 1457.699951171875,
+        "status": "LONG",
+        "entry_date": "2026-04-30",
+        "entry_price": 1438.989990234375,
         "exit_date": "2026-04-28",
         "exit_price": 1384.56005859375
     },
@@ -369,9 +373,9 @@
         "status": "FLAT"
     },
     "ORLY": {
-        "status": "FLAT",
-        "entry_date": "2026-01-29",
-        "entry_price": 99.13999938964844,
+        "status": "LONG",
+        "entry_date": "2026-04-30",
+        "entry_price": 99.4000015258789,
         "exit_date": "2026-02-04",
         "exit_price": 96.73999786376953
     },
@@ -418,9 +422,9 @@
         "status": "FLAT"
     },
     "VOD": {
-        "status": "FLAT",
-        "entry_date": "2026-04-23",
-        "entry_price": 15.619999885559082,
+        "status": "LONG",
+        "entry_date": "2026-04-30",
+        "entry_price": 15.800000190734863,
         "exit_date": "2026-04-29",
         "exit_price": 15.34000015258789
     },
@@ -432,9 +436,9 @@
         "exit_price": 28.170000076293945
     },
     "XEL": {
-        "status": "FLAT",
-        "entry_date": "2026-04-16",
-        "entry_price": 81.05000305175781,
+        "status": "LONG",
+        "entry_date": "2026-04-30",
+        "entry_price": 82.94999694824219,
         "exit_date": "2026-04-21",
         "exit_price": 79.08000183105469
     },
