@@ -170,11 +170,11 @@
         "entry_price": 62.02000045776367
     },
     "KLAC": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-01",
         "entry_price": 1519.8399658203125,
-        "exit_date": "2026-03-26",
-        "exit_price": 1451.1300048828125
+        "exit_date": "2026-05-01",
+        "exit_price": 1726.260009765625
     },
     "LRCX": {
         "status": "LONG",
@@ -310,9 +310,9 @@
         "exit_price": 574.9500122070312
     },
     "ILMN": {
-        "status": "FLAT",
-        "entry_date": "2026-04-17",
-        "entry_price": 134.5,
+        "status": "LONG",
+        "entry_date": "2026-05-01",
+        "entry_price": 135.77999877929688,
         "exit_date": "2026-04-23",
         "exit_price": 125.44000244140625
     },
