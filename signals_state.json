@@ -57,11 +57,11 @@
         "entry_price": 379.75
     },
     "PEP": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-05-07",
         "entry_price": 156.2899932861328,
-        "exit_date": "2026-05-04",
-        "exit_price": 154.58999633789062
+        "exit_date": "2026-05-08",
+        "exit_price": 154.6199951171875
     },
     "COST": {
         "status": "LONG",
@@ -290,16 +290,16 @@
         "exit_price": 45.79999923706055
     },
     "FOX": {
-        "status": "FLAT",
-        "entry_date": "2026-04-27",
-        "entry_price": 57.119998931884766,
+        "status": "LONG",
+        "entry_date": "2026-05-08",
+        "entry_price": 56.599998474121094,
         "exit_date": "2026-05-04",
         "exit_price": 56.06999969482422
     },
     "FOXA": {
-        "status": "FLAT",
-        "entry_date": "2026-04-21",
-        "entry_price": 64.30999755859375,
+        "status": "LONG",
+        "entry_date": "2026-05-08",
+        "entry_price": 62.939998626708984,
         "exit_date": "2026-05-04",
         "exit_price": 62.36000061035156
     },
@@ -363,9 +363,9 @@
         "exit_price": 2082.840087890625
     },
     "MNST": {
-        "status": "FLAT",
-        "entry_date": "2026-02-12",
-        "entry_price": 81.16999816894531,
+        "status": "LONG",
+        "entry_date": "2026-05-08",
+        "entry_price": 86.29000091552734,
         "exit_date": "2026-03-02",
         "exit_price": 81.05999755859375
     },
@@ -381,11 +381,11 @@
         "status": "FLAT"
     },
     "ORLY": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-30",
         "entry_price": 99.4000015258789,
-        "exit_date": "2026-02-04",
-        "exit_price": 96.73999786376953
+        "exit_date": "2026-05-08",
+        "exit_price": 92.95999908447266
     },
     "PCAR": {
         "status": "FLAT",
@@ -477,9 +477,11 @@
         "exit_price": 404.3500061035156
     },
     "CEG": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-05-05",
-        "entry_price": 320.4200134277344
+        "entry_price": 320.4200134277344,
+        "exit_date": "2026-05-08",
+        "exit_price": 303.6300048828125
     },
     "AEP": {
         "status": "FLAT",
