@@ -42,7 +42,9 @@
         "exit_price": 611.9099731445312
     },
     "TSLA": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-05-11",
+        "entry_price": 445.0
     },
     "NVDA": {
         "status": "LONG",
@@ -64,11 +66,11 @@
         "exit_price": 154.6199951171875
     },
     "COST": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-05-07",
         "entry_price": 1012.0599975585938,
-        "exit_date": "2026-05-06",
-        "exit_price": 995.75
+        "exit_date": "2026-05-11",
+        "exit_price": 999.469970703125
     },
     "ADBE": {
         "status": "FLAT"
@@ -446,9 +448,9 @@
         "exit_price": 28.170000076293945
     },
     "XEL": {
-        "status": "FLAT",
-        "entry_date": "2026-04-30",
-        "entry_price": 82.94999694824219,
+        "status": "LONG",
+        "entry_date": "2026-05-11",
+        "entry_price": 80.5999984741211,
         "exit_date": "2026-05-07",
         "exit_price": 80.43000030517578
     },
@@ -596,11 +598,11 @@
         "status": "FLAT"
     },
     "ABNB": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-14",
         "entry_price": 133.85000610351562,
-        "exit_date": "2026-03-27",
-        "exit_price": 122.87000274658203
+        "exit_date": "2026-05-11",
+        "exit_price": 137.0500030517578
     },
     "HON": {
         "status": "FLAT",
@@ -640,9 +642,9 @@
         "status": "FLAT"
     },
     "LIN": {
-        "status": "FLAT",
-        "entry_date": "2026-04-23",
-        "entry_price": 508.05999755859375,
+        "status": "LONG",
+        "entry_date": "2026-05-11",
+        "entry_price": 504.3999938964844,
         "exit_date": "2026-05-04",
         "exit_price": 493.54998779296875
     },
