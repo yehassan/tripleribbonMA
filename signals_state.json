@@ -7,11 +7,11 @@
         "exit_price": 264.17999267578125
     },
     "MSFT": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-05-07",
         "entry_price": 420.7699890136719,
-        "exit_date": "2026-04-30",
-        "exit_price": 407.7799987792969
+        "exit_date": "2026-05-12",
+        "exit_price": 407.7699890136719
     },
     "AMZN": {
         "status": "LONG",
@@ -66,9 +66,9 @@
         "exit_price": 154.6199951171875
     },
     "COST": {
-        "status": "FLAT",
-        "entry_date": "2026-05-07",
-        "entry_price": 1012.0599975585938,
+        "status": "LONG",
+        "entry_date": "2026-05-12",
+        "entry_price": 1021.8800048828125,
         "exit_date": "2026-05-11",
         "exit_price": 999.469970703125
     },
@@ -188,9 +188,9 @@
         "exit_price": 251.22999572753906
     },
     "MRNA": {
-        "status": "FLAT",
-        "entry_date": "2026-04-14",
-        "entry_price": 52.84000015258789,
+        "status": "LONG",
+        "entry_date": "2026-05-12",
+        "entry_price": 53.27000045776367,
         "exit_date": "2026-04-24",
         "exit_price": 50.72999954223633
     },
@@ -306,11 +306,11 @@
         "exit_price": 62.36000061035156
     },
     "HAS": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-05-05",
         "entry_price": 94.76000213623047,
-        "exit_date": "2026-05-04",
-        "exit_price": 93.97000122070312
+        "exit_date": "2026-05-12",
+        "exit_price": 94.5
     },
     "IDXX": {
         "status": "FLAT",
@@ -434,11 +434,11 @@
         "status": "FLAT"
     },
     "VOD": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-30",
         "entry_price": 15.800000190734863,
-        "exit_date": "2026-04-29",
-        "exit_price": 15.34000015258789
+        "exit_date": "2026-05-12",
+        "exit_price": 15.095000267028809
     },
     "WBD": {
         "status": "FLAT",
@@ -448,11 +448,11 @@
         "exit_price": 28.170000076293945
     },
     "XEL": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-05-11",
         "entry_price": 80.5999984741211,
-        "exit_date": "2026-05-07",
-        "exit_price": 80.43000030517578
+        "exit_date": "2026-05-12",
+        "exit_price": 79.9000015258789
     },
     "ZM": {
         "status": "LONG",
@@ -649,7 +649,9 @@
         "exit_price": 493.54998779296875
     },
     "APP": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-05-12",
+        "entry_price": 490.69000244140625
     },
     "SHOP": {
         "status": "FLAT"
@@ -663,9 +665,9 @@
         "status": "FLAT"
     },
     "FANG": {
-        "status": "FLAT",
-        "entry_date": "2026-04-22",
-        "entry_price": 193.8699951171875,
+        "status": "LONG",
+        "entry_date": "2026-05-12",
+        "entry_price": 198.14999389648438,
         "exit_date": "2026-05-06",
         "exit_price": 195.0800018310547
     },
