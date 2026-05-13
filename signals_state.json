@@ -188,11 +188,11 @@
         "exit_price": 251.22999572753906
     },
     "MRNA": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-05-12",
         "entry_price": 53.27000045776367,
-        "exit_date": "2026-04-24",
-        "exit_price": 50.72999954223633
+        "exit_date": "2026-05-13",
+        "exit_price": 50.41999816894531
     },
     "REGN": {
         "status": "FLAT",
@@ -649,9 +649,11 @@
         "exit_price": 493.54998779296875
     },
     "APP": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-05-12",
-        "entry_price": 490.69000244140625
+        "entry_price": 490.69000244140625,
+        "exit_date": "2026-05-13",
+        "exit_price": 453.5299987792969
     },
     "SHOP": {
         "status": "FLAT"
