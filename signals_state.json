@@ -174,11 +174,11 @@
         "exit_price": 57.279998779296875
     },
     "KLAC": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-05-06",
         "entry_price": 1816.2900390625,
-        "exit_date": "2026-05-01",
-        "exit_price": 1726.260009765625
+        "exit_date": "2026-05-18",
+        "exit_price": 1756.449951171875
     },
     "LRCX": {
         "status": "LONG",
@@ -216,11 +216,11 @@
         "exit_price": 469.3399963378906
     },
     "ASML": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-05-05",
         "entry_price": 1442.9200439453125,
-        "exit_date": "2026-05-04",
-        "exit_price": 1386.2099609375
+        "exit_date": "2026-05-18",
+        "exit_price": 1472.3900146484375
     },
     "ADSK": {
         "status": "FLAT"
@@ -306,11 +306,11 @@
         "exit_price": 62.36000061035156
     },
     "HAS": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-05-14",
         "entry_price": 95.6500015258789,
-        "exit_date": "2026-05-12",
-        "exit_price": 94.5
+        "exit_date": "2026-05-18",
+        "exit_price": 93.72000122070312
     },
     "IDXX": {
         "status": "FLAT",
@@ -590,9 +590,9 @@
         "exit_price": 180.6699981689453
     },
     "BKR": {
-        "status": "FLAT",
-        "entry_date": "2026-04-23",
-        "entry_price": 64.48999786376953,
+        "status": "LONG",
+        "entry_date": "2026-05-18",
+        "entry_price": 66.20500183105469,
         "exit_date": "2026-05-07",
         "exit_price": 63.529998779296875
     },
