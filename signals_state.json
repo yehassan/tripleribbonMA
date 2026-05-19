@@ -14,11 +14,11 @@
         "exit_price": 407.7699890136719
     },
     "AMZN": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-13",
         "entry_price": 239.88999938964844,
-        "exit_date": "2026-02-03",
-        "exit_price": 236.52999877929688
+        "exit_date": "2026-05-19",
+        "exit_price": 259.3399963378906
     },
     "GOOGL": {
         "status": "LONG",
@@ -42,9 +42,11 @@
         "exit_price": 611.9099731445312
     },
     "TSLA": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-05-11",
-        "entry_price": 445.0
+        "entry_price": 445.0,
+        "exit_date": "2026-05-19",
+        "exit_price": 404.1099853515625
     },
     "NVDA": {
         "status": "LONG",
@@ -54,9 +56,11 @@
         "exit_price": 196.5
     },
     "AVGO": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-13",
-        "entry_price": 379.75
+        "entry_price": 379.75,
+        "exit_date": "2026-05-19",
+        "exit_price": 411.07000732421875
     },
     "PEP": {
         "status": "FLAT",
@@ -181,11 +185,11 @@
         "exit_price": 1756.449951171875
     },
     "LRCX": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-30",
         "entry_price": 257.8599853515625,
-        "exit_date": "2026-04-28",
-        "exit_price": 251.22999572753906
+        "exit_date": "2026-05-19",
+        "exit_price": 273.3800048828125
     },
     "MRNA": {
         "status": "FLAT",
@@ -240,11 +244,11 @@
         "exit_price": 171.27999877929688
     },
     "CDNS": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-05-07",
         "entry_price": 356.8999938964844,
-        "exit_date": "2026-05-06",
-        "exit_price": 168.32000732421875
+        "exit_date": "2026-05-19",
+        "exit_price": 338.1199951171875
     },
     "CHTR": {
         "status": "FLAT",
@@ -306,9 +310,9 @@
         "exit_price": 62.36000061035156
     },
     "HAS": {
-        "status": "FLAT",
-        "entry_date": "2026-05-14",
-        "entry_price": 95.6500015258789,
+        "status": "LONG",
+        "entry_date": "2026-05-19",
+        "entry_price": 97.18000030517578,
         "exit_date": "2026-05-18",
         "exit_price": 93.72000122070312
     },
@@ -344,9 +348,9 @@
         "status": "FLAT"
     },
     "MAR": {
-        "status": "FLAT",
-        "entry_date": "2026-05-06",
-        "entry_price": 359.05999755859375,
+        "status": "LONG",
+        "entry_date": "2026-05-19",
+        "entry_price": 358.69000244140625,
         "exit_date": "2026-05-07",
         "exit_price": 352.04998779296875
     },
@@ -583,11 +587,11 @@
         "exit_price": 109.0
     },
     "BIIB": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-28",
         "entry_price": 183.3800048828125,
-        "exit_date": "2026-04-27",
-        "exit_price": 180.6699981689453
+        "exit_date": "2026-05-19",
+        "exit_price": 190.55999755859375
     },
     "BKR": {
         "status": "LONG",
