@@ -178,16 +178,16 @@
         "exit_price": 57.279998779296875
     },
     "KLAC": {
-        "status": "FLAT",
-        "entry_date": "2026-05-06",
-        "entry_price": 1816.2900390625,
+        "status": "LONG",
+        "entry_date": "2026-05-20",
+        "entry_price": 1829.469970703125,
         "exit_date": "2026-05-18",
         "exit_price": 1756.449951171875
     },
     "LRCX": {
-        "status": "FLAT",
-        "entry_date": "2026-04-30",
-        "entry_price": 257.8599853515625,
+        "status": "LONG",
+        "entry_date": "2026-05-20",
+        "entry_price": 292.0899963378906,
         "exit_date": "2026-05-19",
         "exit_price": 273.3800048828125
     },
@@ -220,9 +220,9 @@
         "exit_price": 469.3399963378906
     },
     "ASML": {
-        "status": "FLAT",
-        "entry_date": "2026-05-05",
-        "entry_price": 1442.9200439453125,
+        "status": "LONG",
+        "entry_date": "2026-05-20",
+        "entry_price": 1550.1300048828125,
         "exit_date": "2026-05-18",
         "exit_price": 1472.3900146484375
     },
@@ -244,9 +244,9 @@
         "exit_price": 171.27999877929688
     },
     "CDNS": {
-        "status": "FLAT",
-        "entry_date": "2026-05-07",
-        "entry_price": 356.8999938964844,
+        "status": "LONG",
+        "entry_date": "2026-05-20",
+        "entry_price": 350.8900146484375,
         "exit_date": "2026-05-19",
         "exit_price": 338.1199951171875
     },
@@ -296,11 +296,11 @@
         "exit_price": 45.79999923706055
     },
     "FOX": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-05-08",
         "entry_price": 56.599998474121094,
-        "exit_date": "2026-05-04",
-        "exit_price": 56.06999969482422
+        "exit_date": "2026-05-20",
+        "exit_price": 57.380001068115234
     },
     "FOXA": {
         "status": "LONG",
@@ -310,11 +310,11 @@
         "exit_price": 62.36000061035156
     },
     "HAS": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-05-19",
         "entry_price": 97.18000030517578,
-        "exit_date": "2026-05-18",
-        "exit_price": 93.72000122070312
+        "exit_date": "2026-05-20",
+        "exit_price": 88.5999984741211
     },
     "IDXX": {
         "status": "FLAT",
@@ -410,9 +410,9 @@
         "exit_price": 46.4900016784668
     },
     "SIRI": {
-        "status": "FLAT",
-        "entry_date": "2026-02-26",
-        "entry_price": 21.520000457763672,
+        "status": "LONG",
+        "entry_date": "2026-05-20",
+        "entry_price": 27.049999237060547,
         "exit_date": "2026-05-15",
         "exit_price": 25.829999923706055
     },
@@ -427,7 +427,9 @@
         "entry_price": 23.709999084472656
     },
     "TEAM": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-05-20",
+        "entry_price": 86.2300033569336
     },
     "TMUS": {
         "status": "FLAT",
@@ -638,11 +640,11 @@
         "status": "FLAT"
     },
     "ADI": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-07",
         "entry_price": 327.4100036621094,
-        "exit_date": "2026-03-05",
-        "exit_price": 329.7200012207031
+        "exit_date": "2026-05-20",
+        "exit_price": 398.04998779296875
     },
     "PDD": {
         "status": "FLAT"
