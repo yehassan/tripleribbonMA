@@ -14,9 +14,9 @@
         "exit_price": 407.7699890136719
     },
     "AMZN": {
-        "status": "FLAT",
-        "entry_date": "2026-04-13",
-        "entry_price": 239.88999938964844,
+        "status": "LONG",
+        "entry_date": "2026-05-21",
+        "entry_price": 268.4599914550781,
         "exit_date": "2026-05-19",
         "exit_price": 259.3399963378906
     },
@@ -42,9 +42,9 @@
         "exit_price": 611.9099731445312
     },
     "TSLA": {
-        "status": "FLAT",
-        "entry_date": "2026-05-11",
-        "entry_price": 445.0,
+        "status": "LONG",
+        "entry_date": "2026-05-21",
+        "entry_price": 417.8500061035156,
         "exit_date": "2026-05-19",
         "exit_price": 404.1099853515625
     },
@@ -161,7 +161,9 @@
         "exit_price": 57.68000030517578
     },
     "ADP": {
-        "status": "FLAT"
+        "status": "LONG",
+        "entry_date": "2026-05-21",
+        "entry_price": 220.0749969482422
     },
     "CSX": {
         "status": "LONG",
@@ -230,11 +232,11 @@
         "status": "FLAT"
     },
     "BIDU": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-05-07",
         "entry_price": 139.8699951171875,
-        "exit_date": "2026-02-03",
-        "exit_price": 143.63999938964844
+        "exit_date": "2026-05-21",
+        "exit_price": 131.17999267578125
     },
     "BKNG": {
         "status": "FLAT",
@@ -355,11 +357,11 @@
         "exit_price": 352.04998779296875
     },
     "MCHP": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-15",
         "entry_price": 74.48999786376953,
-        "exit_date": "2026-02-23",
-        "exit_price": 76.5999984741211
+        "exit_date": "2026-05-21",
+        "exit_price": 91.11000061035156
     },
     "MELI": {
         "status": "FLAT",
@@ -427,9 +429,11 @@
         "entry_price": 23.709999084472656
     },
     "TEAM": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-05-20",
-        "entry_price": 86.2300033569336
+        "entry_price": 86.2300033569336,
+        "exit_date": "2026-05-21",
+        "exit_price": 82.18000030517578
     },
     "TMUS": {
         "status": "FLAT",
@@ -470,9 +474,9 @@
         "exit_price": 98.2300033569336
     },
     "ZS": {
-        "status": "FLAT",
-        "entry_date": "2026-04-07",
-        "entry_price": 80.54000091552734,
+        "status": "LONG",
+        "entry_date": "2026-05-21",
+        "entry_price": 171.00999450683594,
         "exit_date": "2026-04-08",
         "exit_price": 137.85000610351562
     },
@@ -534,9 +538,9 @@
         "status": "FLAT"
     },
     "ODFL": {
-        "status": "FLAT",
-        "entry_date": "2026-04-08",
-        "entry_price": 207.52999877929688,
+        "status": "LONG",
+        "entry_date": "2026-05-21",
+        "entry_price": 207.69000244140625,
         "exit_date": "2026-04-29",
         "exit_price": 209.35000610351562
     },
