@@ -70,11 +70,11 @@
         "exit_price": 154.6199951171875
     },
     "COST": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-05-12",
         "entry_price": 1021.8800048828125,
-        "exit_date": "2026-05-11",
-        "exit_price": 999.469970703125
+        "exit_date": "2026-05-22",
+        "exit_price": 1028.239990234375
     },
     "ADBE": {
         "status": "FLAT"
@@ -144,11 +144,11 @@
         "exit_price": 97.30999755859375
     },
     "SBUX": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-04-09",
         "entry_price": 96.91999816894531,
-        "exit_date": "2026-03-16",
-        "exit_price": 97.81999969482422
+        "exit_date": "2026-05-22",
+        "exit_price": 103.11000061035156
     },
     "INTU": {
         "status": "FLAT"
@@ -305,11 +305,11 @@
         "exit_price": 57.380001068115234
     },
     "FOXA": {
-        "status": "LONG",
+        "status": "FLAT",
         "entry_date": "2026-05-08",
         "entry_price": 62.939998626708984,
-        "exit_date": "2026-05-04",
-        "exit_price": 62.36000061035156
+        "exit_date": "2026-05-22",
+        "exit_price": 63.97999954223633
     },
     "HAS": {
         "status": "FLAT",
@@ -429,9 +429,9 @@
         "entry_price": 23.709999084472656
     },
     "TEAM": {
-        "status": "FLAT",
-        "entry_date": "2026-05-20",
-        "entry_price": 86.2300033569336,
+        "status": "LONG",
+        "entry_date": "2026-05-22",
+        "entry_price": 85.41999816894531,
         "exit_date": "2026-05-21",
         "exit_price": 82.18000030517578
     },
@@ -467,9 +467,9 @@
         "exit_price": 79.9000015258789
     },
     "ZM": {
-        "status": "FLAT",
-        "entry_date": "2026-04-17",
-        "entry_price": 88.0199966430664,
+        "status": "LONG",
+        "entry_date": "2026-05-22",
+        "entry_price": 105.63999938964844,
         "exit_date": "2026-05-14",
         "exit_price": 98.2300033569336
     },
@@ -593,9 +593,9 @@
         "exit_price": 109.0
     },
     "BIIB": {
-        "status": "FLAT",
-        "entry_date": "2026-04-28",
-        "entry_price": 183.3800048828125,
+        "status": "LONG",
+        "entry_date": "2026-05-22",
+        "entry_price": 193.75999450683594,
         "exit_date": "2026-05-19",
         "exit_price": 190.55999755859375
     },
